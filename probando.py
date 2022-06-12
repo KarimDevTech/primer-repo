@@ -3,3 +3,5 @@ def hola(nombre):
     input(":")
     print("me alegro mucho, que tengas un gran dia")
 hola(input("escribi tu nombre: "))
+
+#hola jejejje
